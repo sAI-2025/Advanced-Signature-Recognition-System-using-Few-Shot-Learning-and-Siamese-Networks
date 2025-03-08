@@ -1,0 +1,16 @@
+numpy
+scikit-learn
+tensorflow
+torch
+pillow
+scipy
+matplotlib
+seaborn
+tqdm
+zipfile
+opencv-python
+Flask
+streamlit
+keras
+nibabel
+torch
